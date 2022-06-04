@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Advanced Programming@localhost" uuid="b1aa1c39-349e-4cff-9ace-66bd6ed5de5b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/Advanced Programming</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <auto-close timeout="3" />
+    </data-source>
+  </component>
+</project>
